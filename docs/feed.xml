@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Brasil ante un nuevo El Niño: ¿cómo prepararse?</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/brasil-ante-un-nuevo-el-nino-como-prepararse/</description>
+      <link>https://desinformemonos.org/brasil-ante-un-nuevo-el-nino-como-prepararse/</link>
+      <guid isPermaLink="false">9d34afa1002170cd</guid>
+      <pubDate>Wed, 08 Jul 2026 05:59:41 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/9d34afa1002170cd.mp3" length="1064592" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Zulema, la intrépida “Claudia”</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
       <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">52deead95de6a4d8</guid>
       <pubDate>Sun, 05 Jul 2026 05:58:03 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/52deead95de6a4d8.mp3" length="2084256" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La psicología del mexicano</title>
-      <description>México – Rebelion — https://rebelion.org/la-psicologia-del-mexicano/</description>
-      <link>https://rebelion.org/la-psicologia-del-mexicano/</link>
-      <guid isPermaLink="false">1b83d6094773ac5e</guid>
-      <pubDate>Sun, 05 Jul 2026 05:57:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/1b83d6094773ac5e.mp3" length="2362608" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
