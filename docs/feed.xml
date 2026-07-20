@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>50 años de la Declaración de Argel. La irrenunciable existencia de los pueblos</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/50-anos-de-la-declaracion-de-argel-la-irrenunciable-existencia-de-los-pueblos/</description>
+      <link>https://desinformemonos.org/50-anos-de-la-declaracion-de-argel-la-irrenunciable-existencia-de-los-pueblos/</link>
+      <guid isPermaLink="false">addcb5a0eec14112</guid>
+      <pubDate>Mon, 20 Jul 2026 19:14:13 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/addcb5a0eec14112.mp3" length="5500944" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Vueltas y Re-Vueltas I. Crónicas viajeras en el viejo continente</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/vueltas-y-re-vueltas-i-cronicas-viajeras-en-el-viejo-continente/</description>
       <link>https://desinformemonos.org/vueltas-y-re-vueltas-i-cronicas-viajeras-en-el-viejo-continente/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
       <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La mejor ayuda para Venezuela es levantar el bloqueo</title>
-      <description>Venezuela – Rebelion — https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</description>
-      <link>https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</link>
-      <guid isPermaLink="false">9ab010c1c4dc0d72</guid>
-      <pubDate>Sun, 05 Jul 2026 06:04:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/9ab010c1c4dc0d72.mp3" length="1422144" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
