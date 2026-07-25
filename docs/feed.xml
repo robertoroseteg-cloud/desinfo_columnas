@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Summa varia</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/summa-varia/</description>
+      <link>https://desinformemonos.org/summa-varia/</link>
+      <guid isPermaLink="false">28ecb9ac500d44d0</guid>
+      <pubDate>Sat, 25 Jul 2026 16:13:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/28ecb9ac500d44d0.mp3" length="7538544" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿El nuevo sistema de cuidados de la Ciudad de México incluirá a mujeres en movilidad?</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/el-nuevo-sistema-de-cuidados-de-la-ciudad-de-mexico-incluira-a-mujeres-en-movilidad/</description>
       <link>https://desinformemonos.org/el-nuevo-sistema-de-cuidados-de-la-ciudad-de-mexico-incluira-a-mujeres-en-movilidad/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">bd51fc61a35596c8</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lo político en Cecosesola</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
-      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
-      <guid isPermaLink="false">731770e3cc47abd7</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
