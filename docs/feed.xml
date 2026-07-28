@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La hipótesis estatal del campesino culpable</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/la-hipotesis-estatal-del-campesino-culpable/</description>
+      <link>https://desinformemonos.org/la-hipotesis-estatal-del-campesino-culpable/</link>
+      <guid isPermaLink="false">09c7a81fd0a2593c</guid>
+      <pubDate>Tue, 28 Jul 2026 17:51:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/09c7a81fd0a2593c.mp3" length="3458592" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuando más almas se juntan</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-mas-almas-se-juntan/</description>
       <link>https://desinformemonos.org/cuando-mas-almas-se-juntan/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">93288eccb26a0137</guid>
       <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Pero dos lo zarandeaban para que se callara</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
-      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
-      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
-      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
