@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Honduras: escenografías conocidas y saberes</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/honduras-escenografias-conocidas-y-saberes/</description>
+      <link>https://desinformemonos.org/honduras-escenografias-conocidas-y-saberes/</link>
+      <guid isPermaLink="false">479a6c9effc14690</guid>
+      <pubDate>Wed, 29 Jul 2026 16:59:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/479a6c9effc14690.mp3" length="1400400" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La hipótesis estatal del campesino culpable</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/la-hipotesis-estatal-del-campesino-culpable/</description>
       <link>https://desinformemonos.org/la-hipotesis-estatal-del-campesino-culpable/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">0476f85ad805e9dc</guid>
       <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
-      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
-      <guid isPermaLink="false">93288eccb26a0137</guid>
-      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
