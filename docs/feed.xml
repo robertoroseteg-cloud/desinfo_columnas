@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>No perdonamos, no olvidamos y no nos vendemos</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/no-perdonamos-no-olvidamos-y-no-nos-vendemos/</description>
+      <link>https://desinformemonos.org/no-perdonamos-no-olvidamos-y-no-nos-vendemos/</link>
+      <guid isPermaLink="false">b6b167c7d242d0d0</guid>
+      <pubDate>Fri, 07 Aug 2026 13:56:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/b6b167c7d242d0d0.mp3" length="2741616" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Ley de extranjerización de las tierras argentinas</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/ley-de-extranjerizacion-de-las-tierras-argentinas/</description>
       <link>https://desinformemonos.org/ley-de-extranjerizacion-de-las-tierras-argentinas/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">520bcc1da355e81e</guid>
       <pubDate>Sun, 19 Jul 2026 07:17:34 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/520bcc1da355e81e.mp3" length="2630016" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Hacer haciendo la política</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/hacer-haciendo-la-politica/</description>
-      <link>https://desinformemonos.org/hacer-haciendo-la-politica/</link>
-      <guid isPermaLink="false">559026dd536c7e95</guid>
-      <pubDate>Sun, 19 Jul 2026 07:17:04 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/559026dd536c7e95.mp3" length="1769760" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
