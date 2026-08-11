@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>“Somos agua”, gritan pueblos en resistencia</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/somos-agua-gritan-pueblos-en-resistencia/</description>
+      <link>https://desinformemonos.org/somos-agua-gritan-pueblos-en-resistencia/</link>
+      <guid isPermaLink="false">496e544fea724213</guid>
+      <pubDate>Tue, 11 Aug 2026 14:03:18 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/496e544fea724213.mp3" length="221904" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La continuidad de la criminalización y judicialización de la lucha social, desplegada por los gobiernos emanados de MORENA</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/la-continuidad-de-la-criminalizacion-y-judicializacion-de-la-lucha-social-desplegada-por-los-gobiernos-emanados-de-morena/</description>
+      <link>https://desinformemonos.org/la-continuidad-de-la-criminalizacion-y-judicializacion-de-la-lucha-social-desplegada-por-los-gobiernos-emanados-de-morena/</link>
+      <guid isPermaLink="false">4359a7048bb19954</guid>
+      <pubDate>Tue, 11 Aug 2026 14:03:12 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/4359a7048bb19954.mp3" length="245088" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>No perdonamos, no olvidamos y no nos vendemos</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/no-perdonamos-no-olvidamos-y-no-nos-vendemos/</description>
       <link>https://desinformemonos.org/no-perdonamos-no-olvidamos-y-no-nos-vendemos/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">bcdbe2c6a1b134ca</guid>
       <pubDate>Sun, 19 Jul 2026 07:18:55 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/bcdbe2c6a1b134ca.mp3" length="2337408" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El Paraná es un río, no una hidrovía</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/el-parana-es-un-rio-no-una-hidrovia/</description>
-      <link>https://desinformemonos.org/el-parana-es-un-rio-no-una-hidrovia/</link>
-      <guid isPermaLink="false">4d0b399942b097b7</guid>
-      <pubDate>Sun, 19 Jul 2026 07:18:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/4d0b399942b097b7.mp3" length="5698656" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una guerra con beneficio de inventario</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/una-guerra-con-beneficio-de-inventario/</description>
-      <link>https://desinformemonos.org/una-guerra-con-beneficio-de-inventario/</link>
-      <guid isPermaLink="false">520bcc1da355e81e</guid>
-      <pubDate>Sun, 19 Jul 2026 07:17:34 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/520bcc1da355e81e.mp3" length="2630016" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
