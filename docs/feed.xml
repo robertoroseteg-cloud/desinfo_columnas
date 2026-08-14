@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Algoritmos Sin Ritmo</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/algoritmos-sin-ritmo/</description>
+      <link>https://desinformemonos.org/algoritmos-sin-ritmo/</link>
+      <guid isPermaLink="false">fd27e06fad9081b2</guid>
+      <pubDate>Fri, 14 Aug 2026 13:59:23 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/fd27e06fad9081b2.mp3" length="213696" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Policrisis, multirespuestas ante el punitivismo contemporáneo</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/policrisis-multirespuestas-ante-el-punitivismo-contemporaneo/</description>
+      <link>https://desinformemonos.org/policrisis-multirespuestas-ante-el-punitivismo-contemporaneo/</link>
+      <guid isPermaLink="false">df4f4ede85a86084</guid>
+      <pubDate>Fri, 14 Aug 2026 13:59:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/df4f4ede85a86084.mp3" length="227952" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>“Somos agua”, gritan pueblos en resistencia</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/somos-agua-gritan-pueblos-en-resistencia/</description>
       <link>https://desinformemonos.org/somos-agua-gritan-pueblos-en-resistencia/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">309d7da6dcb6fff5</guid>
       <pubDate>Sun, 19 Jul 2026 07:19:36 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/309d7da6dcb6fff5.mp3" length="1438416" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La postura del gobierno mexicano frente a la solicitud de detención provisional con fines de extradición</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/la-postura-del-gobierno-mexicano-frente-a-la-solicitud-de-detencion-provisional-con-fines-de-extradicion/</description>
-      <link>https://desinformemonos.org/la-postura-del-gobierno-mexicano-frente-a-la-solicitud-de-detencion-provisional-con-fines-de-extradicion/</link>
-      <guid isPermaLink="false">07f1bce1f61265b8</guid>
-      <pubDate>Sun, 19 Jul 2026 07:19:23 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/07f1bce1f61265b8.mp3" length="3217392" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Incendios amazónicos y Autogobiernos Originarios</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/incendios-amazonicos-y-autogobiernos-originarios/</description>
-      <link>https://desinformemonos.org/incendios-amazonicos-y-autogobiernos-originarios/</link>
-      <guid isPermaLink="false">bcdbe2c6a1b134ca</guid>
-      <pubDate>Sun, 19 Jul 2026 07:18:55 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/bcdbe2c6a1b134ca.mp3" length="2337408" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
