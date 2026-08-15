@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Crónicas viajeras-Bélgica. Mars Attacks</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/cronicas-viajeras-belgica-mars-attacks/</description>
+      <link>https://desinformemonos.org/cronicas-viajeras-belgica-mars-attacks/</link>
+      <guid isPermaLink="false">c11ce0b80e5dfe94</guid>
+      <pubDate>Sat, 15 Aug 2026 13:14:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/c11ce0b80e5dfe94.mp3" length="1522800" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Capitalismo genocida: depredación y desobediencia</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/capitalismo-genocida-depredacion-y-desobediencia/</description>
+      <link>https://desinformemonos.org/capitalismo-genocida-depredacion-y-desobediencia/</link>
+      <guid isPermaLink="false">8b1757a8e3fa5c0d</guid>
+      <pubDate>Sat, 15 Aug 2026 13:14:06 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/8b1757a8e3fa5c0d.mp3" length="4267152" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Algoritmos Sin Ritmo</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/algoritmos-sin-ritmo/</description>
       <link>https://desinformemonos.org/algoritmos-sin-ritmo/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">fbfef4024b80267e</guid>
       <pubDate>Tue, 21 Jul 2026 17:03:27 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/fbfef4024b80267e.mp3" length="1241136" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>50 años de la Declaración de Argel. La irrenunciable existencia de los pueblos</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/50-anos-de-la-declaracion-de-argel-la-irrenunciable-existencia-de-los-pueblos/</description>
-      <link>https://desinformemonos.org/50-anos-de-la-declaracion-de-argel-la-irrenunciable-existencia-de-los-pueblos/</link>
-      <guid isPermaLink="false">addcb5a0eec14112</guid>
-      <pubDate>Mon, 20 Jul 2026 19:14:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/addcb5a0eec14112.mp3" length="5500944" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Vueltas y Re-Vueltas I. Crónicas viajeras en el viejo continente</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/vueltas-y-re-vueltas-i-cronicas-viajeras-en-el-viejo-continente/</description>
-      <link>https://desinformemonos.org/vueltas-y-re-vueltas-i-cronicas-viajeras-en-el-viejo-continente/</link>
-      <guid isPermaLink="false">309d7da6dcb6fff5</guid>
-      <pubDate>Sun, 19 Jul 2026 07:19:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/309d7da6dcb6fff5.mp3" length="1438416" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
