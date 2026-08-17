@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>“Articular la diversidad sin perder el horizonte común”</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/articular-la-diversidad-sin-perder-el-horizonte-comun/</description>
+      <link>https://desinformemonos.org/articular-la-diversidad-sin-perder-el-horizonte-comun/</link>
+      <guid isPermaLink="false">76d3db0184c07254</guid>
+      <pubDate>Mon, 17 Aug 2026 13:25:40 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/76d3db0184c07254.mp3" length="7222320" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Crónicas viajeras-Bélgica. Mars Attacks</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/cronicas-viajeras-belgica-mars-attacks/</description>
       <link>https://desinformemonos.org/cronicas-viajeras-belgica-mars-attacks/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7801b387d48dcad6</guid>
       <pubDate>Fri, 24 Jul 2026 18:04:35 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/7801b387d48dcad6.mp3" length="2353248" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Argentina. Los presos del pabellón 5 de Rawson: presos “comunes”, presos “políticos”</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/argentina-los-presos-del-pabellon-5-de-rawson-presos-comunes-presos-politicos/</description>
-      <link>https://desinformemonos.org/argentina-los-presos-del-pabellon-5-de-rawson-presos-comunes-presos-politicos/</link>
-      <guid isPermaLink="false">fbfef4024b80267e</guid>
-      <pubDate>Tue, 21 Jul 2026 17:03:27 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/fbfef4024b80267e.mp3" length="1241136" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
