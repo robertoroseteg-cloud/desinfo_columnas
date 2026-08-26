@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Ola de indignación popular en Paraguay</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/ola-de-indignacion-popular-en-paraguay/</description>
+      <link>https://desinformemonos.org/ola-de-indignacion-popular-en-paraguay/</link>
+      <guid isPermaLink="false">fa2246d4eab7efa3</guid>
+      <pubDate>Wed, 26 Aug 2026 13:39:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/fa2246d4eab7efa3.mp3" length="3602880" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El huevo de la serpiente</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/el-huevo-de-la-serpiente/</description>
+      <link>https://desinformemonos.org/el-huevo-de-la-serpiente/</link>
+      <guid isPermaLink="false">38c3ea076dfc4ed0</guid>
+      <pubDate>Wed, 26 Aug 2026 13:38:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/38c3ea076dfc4ed0.mp3" length="2284128" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Ecologismo de la justicia climática. Aporte al debate global encaminado a una transición energética justa</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/ecologismo-de-la-justicia-climatica-aporte-al-debate-global-encaminado-a-una-transicion-energetica-justa/</description>
       <link>https://desinformemonos.org/ecologismo-de-la-justicia-climatica-aporte-al-debate-global-encaminado-a-una-transicion-energetica-justa/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">1865ff40f3bb5092</guid>
       <pubDate>Thu, 30 Jul 2026 14:54:59 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/1865ff40f3bb5092.mp3" length="3645072" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La civilización del colapso, la guerra contra la vida</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/la-civilizacion-del-colapso-la-guerra-contra-la-vida/</description>
-      <link>https://desinformemonos.org/la-civilizacion-del-colapso-la-guerra-contra-la-vida/</link>
-      <guid isPermaLink="false">543a4ab1195e9d61</guid>
-      <pubDate>Thu, 30 Jul 2026 14:54:21 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/543a4ab1195e9d61.mp3" length="5114304" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Honduras: escenografías conocidas y saberes</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/honduras-escenografias-conocidas-y-saberes/</description>
-      <link>https://desinformemonos.org/honduras-escenografias-conocidas-y-saberes/</link>
-      <guid isPermaLink="false">479a6c9effc14690</guid>
-      <pubDate>Wed, 29 Jul 2026 16:59:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/479a6c9effc14690.mp3" length="1400400" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
