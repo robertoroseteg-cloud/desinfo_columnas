@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¿Otros horizontes de sentido?: errores y cambios</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/otros-horizontes-de-sentido-errores-y-cambios/</description>
+      <link>https://desinformemonos.org/otros-horizontes-de-sentido-errores-y-cambios/</link>
+      <guid isPermaLink="false">0bca375216bdef06</guid>
+      <pubDate>Sat, 29 Aug 2026 16:51:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/0bca375216bdef06.mp3" length="3685968" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mujeres migrantes y la falsa promesa de protección en México</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/mujeres-migrantes-y-la-falsa-promesa-de-proteccion-en-mexico/</description>
       <link>https://desinformemonos.org/mujeres-migrantes-y-la-falsa-promesa-de-proteccion-en-mexico/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">06adf0d7a4bfc601</guid>
       <pubDate>Thu, 06 Aug 2026 15:00:59 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/06adf0d7a4bfc601.mp3" length="5988240" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Elecciones brasileñas: Los sueños no caben en las urnas, pero las pesadillas sí</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/elecciones-brasilenas-los-suenos-no-caben-en-las-urnas-pero-las-pesadillas-si/</description>
-      <link>https://desinformemonos.org/elecciones-brasilenas-los-suenos-no-caben-en-las-urnas-pero-las-pesadillas-si/</link>
-      <guid isPermaLink="false">943e62f590ea21d5</guid>
-      <pubDate>Thu, 06 Aug 2026 14:59:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/943e62f590ea21d5.mp3" length="3736656" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
