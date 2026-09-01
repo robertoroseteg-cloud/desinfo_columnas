@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Murió un constructor de caminos. ¡Viva el camino!</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/murio-un-constructor-de-caminos-viva-el-camino/</description>
+      <link>https://desinformemonos.org/murio-un-constructor-de-caminos-viva-el-camino/</link>
+      <guid isPermaLink="false">950b7d3857a8d506</guid>
+      <pubDate>Tue, 01 Sep 2026 16:53:30 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/950b7d3857a8d506.mp3" length="1688112" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Otros horizontes de sentido?: errores y cambios</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/otros-horizontes-de-sentido-errores-y-cambios/</description>
       <link>https://desinformemonos.org/otros-horizontes-de-sentido-errores-y-cambios/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">b6b167c7d242d0d0</guid>
       <pubDate>Fri, 07 Aug 2026 13:56:19 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/b6b167c7d242d0d0.mp3" length="2741616" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ley de extranjerización de las tierras argentinas</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/ley-de-extranjerizacion-de-las-tierras-argentinas/</description>
-      <link>https://desinformemonos.org/ley-de-extranjerizacion-de-las-tierras-argentinas/</link>
-      <guid isPermaLink="false">06adf0d7a4bfc601</guid>
-      <pubDate>Thu, 06 Aug 2026 15:00:59 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/06adf0d7a4bfc601.mp3" length="5988240" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
