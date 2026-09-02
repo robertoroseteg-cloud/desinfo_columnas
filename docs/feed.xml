@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Desde la tormenta</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/desde-la-tormenta/</description>
+      <link>https://desinformemonos.org/desde-la-tormenta/</link>
+      <guid isPermaLink="false">e33e5cb6dcad301b</guid>
+      <pubDate>Wed, 02 Sep 2026 16:51:21 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/e33e5cb6dcad301b.mp3" length="4861008" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Murió un constructor de caminos. ¡Viva el camino!</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/murio-un-constructor-de-caminos-viva-el-camino/</description>
       <link>https://desinformemonos.org/murio-un-constructor-de-caminos-viva-el-camino/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">4359a7048bb19954</guid>
       <pubDate>Tue, 11 Aug 2026 14:03:12 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/4359a7048bb19954.mp3" length="245088" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>No perdonamos, no olvidamos y no nos vendemos</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/no-perdonamos-no-olvidamos-y-no-nos-vendemos/</description>
-      <link>https://desinformemonos.org/no-perdonamos-no-olvidamos-y-no-nos-vendemos/</link>
-      <guid isPermaLink="false">b6b167c7d242d0d0</guid>
-      <pubDate>Fri, 07 Aug 2026 13:56:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/b6b167c7d242d0d0.mp3" length="2741616" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
