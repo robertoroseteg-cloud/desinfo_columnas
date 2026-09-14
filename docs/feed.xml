@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Madres de Falsos Positivos</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/madres-de-falsos-positivos/</description>
+      <link>https://desinformemonos.org/madres-de-falsos-positivos/</link>
+      <guid isPermaLink="false">a96ce896917c6e0c</guid>
+      <pubDate>Mon, 14 Sep 2026 18:10:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/a96ce896917c6e0c.mp3" length="1622304" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuando protestar cuesta la vida: memoria, impunidad y dignidad en el estallido social colombiano</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-protestar-cuesta-la-vida-memoria-impunidad-y-dignidad-en-el-estallido-social-colombiano/</description>
       <link>https://desinformemonos.org/cuando-protestar-cuesta-la-vida-memoria-impunidad-y-dignidad-en-el-estallido-social-colombiano/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">545f48ffde56be72</guid>
       <pubDate>Thu, 20 Aug 2026 13:33:33 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/545f48ffde56be72.mp3" length="9822096" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La historia del secretario mapuche que Bariloche silencia</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/la-historia-del-secretario-mapuche-que-bariloche-silencia/</description>
-      <link>https://desinformemonos.org/la-historia-del-secretario-mapuche-que-bariloche-silencia/</link>
-      <guid isPermaLink="false">597255be25f89f90</guid>
-      <pubDate>Thu, 20 Aug 2026 13:31:08 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/597255be25f89f90.mp3" length="3229200" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
