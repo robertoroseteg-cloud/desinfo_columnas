@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Venganza de río</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/venganza-de-rio/</description>
+      <link>https://desinformemonos.org/venganza-de-rio/</link>
+      <guid isPermaLink="false">3f65a01c7c51b5af</guid>
+      <pubDate>Thu, 17 Sep 2026 17:14:57 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/3f65a01c7c51b5af.mp3" length="2201040" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La marcha de la bronca</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/la-marcha-de-la-bronca/</description>
       <link>https://desinformemonos.org/la-marcha-de-la-bronca/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">0b9e623c1a9c0dc2</guid>
       <pubDate>Sat, 22 Aug 2026 13:17:03 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/0b9e623c1a9c0dc2.mp3" length="4836096" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Brasil y Argentina: Leyes de tierras. Sin fronteras, sin dueños, sin banderas</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/brasil-y-argentina-leyes-de-tierras-sin-fronteras-sin-duenos-sin-banderas/</description>
-      <link>https://desinformemonos.org/brasil-y-argentina-leyes-de-tierras-sin-fronteras-sin-duenos-sin-banderas/</link>
-      <guid isPermaLink="false">30eb689d8c9f1c6d</guid>
-      <pubDate>Fri, 21 Aug 2026 13:30:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/30eb689d8c9f1c6d.mp3" length="4046976" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
