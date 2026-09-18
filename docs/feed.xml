@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Vueltas y Re-Vueltas III</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/vueltas-y-re-vueltas-iii/</description>
+      <link>https://desinformemonos.org/vueltas-y-re-vueltas-iii/</link>
+      <guid isPermaLink="false">91c8605bbc55484a</guid>
+      <pubDate>Fri, 18 Sep 2026 16:42:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/91c8605bbc55484a.mp3" length="2063808" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Venganza de río</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/venganza-de-rio/</description>
       <link>https://desinformemonos.org/venganza-de-rio/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">38c3ea076dfc4ed0</guid>
       <pubDate>Wed, 26 Aug 2026 13:38:38 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/38c3ea076dfc4ed0.mp3" length="2284128" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ecologismo de la justicia climática. Aporte al debate global encaminado a una transición energética justa</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/ecologismo-de-la-justicia-climatica-aporte-al-debate-global-encaminado-a-una-transicion-energetica-justa/</description>
-      <link>https://desinformemonos.org/ecologismo-de-la-justicia-climatica-aporte-al-debate-global-encaminado-a-una-transicion-energetica-justa/</link>
-      <guid isPermaLink="false">0b9e623c1a9c0dc2</guid>
-      <pubDate>Sat, 22 Aug 2026 13:17:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/0b9e623c1a9c0dc2.mp3" length="4836096" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
