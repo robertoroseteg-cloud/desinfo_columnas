@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Por Honduras: Luchá como garifuna</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/por-honduras-lucha-como-garifuna/</description>
+      <link>https://desinformemonos.org/por-honduras-lucha-como-garifuna/</link>
+      <guid isPermaLink="false">e22b69ac432c2fe9</guid>
+      <pubDate>Mon, 21 Sep 2026 18:19:51 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/e22b69ac432c2fe9.mp3" length="810864" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>veredas</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/veredas/</description>
+      <link>https://desinformemonos.org/veredas/</link>
+      <guid isPermaLink="false">079804f501d2c062</guid>
+      <pubDate>Mon, 21 Sep 2026 18:19:41 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/079804f501d2c062.mp3" length="7938288" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Vueltas y Re-Vueltas III</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/vueltas-y-re-vueltas-iii/</description>
       <link>https://desinformemonos.org/vueltas-y-re-vueltas-iii/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">2bf77eea025539c8</guid>
       <pubDate>Thu, 27 Aug 2026 22:33:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/2bf77eea025539c8.mp3" length="2158992" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ola de indignación popular en Paraguay</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/ola-de-indignacion-popular-en-paraguay/</description>
-      <link>https://desinformemonos.org/ola-de-indignacion-popular-en-paraguay/</link>
-      <guid isPermaLink="false">fa2246d4eab7efa3</guid>
-      <pubDate>Wed, 26 Aug 2026 13:39:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/fa2246d4eab7efa3.mp3" length="3602880" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El huevo de la serpiente</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/el-huevo-de-la-serpiente/</description>
-      <link>https://desinformemonos.org/el-huevo-de-la-serpiente/</link>
-      <guid isPermaLink="false">38c3ea076dfc4ed0</guid>
-      <pubDate>Wed, 26 Aug 2026 13:38:38 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/38c3ea076dfc4ed0.mp3" length="2284128" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
