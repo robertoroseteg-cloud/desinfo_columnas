@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Violencia creciente en los territorios comunitarios</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-creciente-en-los-territorios-comunitarios/</description>
+      <link>https://desinformemonos.org/violencia-creciente-en-los-territorios-comunitarios/</link>
+      <guid isPermaLink="false">a16f5b5c445a9c0a</guid>
+      <pubDate>Tue, 22 Sep 2026 17:15:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/a16f5b5c445a9c0a.mp3" length="3058992" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Por Honduras: Luchá como garifuna</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/por-honduras-lucha-como-garifuna/</description>
       <link>https://desinformemonos.org/por-honduras-lucha-como-garifuna/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">28dfa1ce3b98e2b9</guid>
       <pubDate>Thu, 27 Aug 2026 22:34:13 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/28dfa1ce3b98e2b9.mp3" length="2296512" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>A dos meses del doble terremoto en Venezuela</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/a-dos-meses-del-doble-terremoto-en-venezuela/</description>
-      <link>https://desinformemonos.org/a-dos-meses-del-doble-terremoto-en-venezuela/</link>
-      <guid isPermaLink="false">2bf77eea025539c8</guid>
-      <pubDate>Thu, 27 Aug 2026 22:33:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/2bf77eea025539c8.mp3" length="2158992" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
