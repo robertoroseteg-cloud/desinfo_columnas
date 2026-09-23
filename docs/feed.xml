@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Sobre el trabajo comunitario en año electoral</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/sobre-el-trabajo-comunitario-en-ano-electoral/</description>
+      <link>https://desinformemonos.org/sobre-el-trabajo-comunitario-en-ano-electoral/</link>
+      <guid isPermaLink="false">b60eb757e75cfdde</guid>
+      <pubDate>Wed, 23 Sep 2026 17:28:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/b60eb757e75cfdde.mp3" length="8754048" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Violencia creciente en los territorios comunitarios</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-creciente-en-los-territorios-comunitarios/</description>
       <link>https://desinformemonos.org/violencia-creciente-en-los-territorios-comunitarios/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">68af27bcc3836bc2</guid>
       <pubDate>Fri, 28 Aug 2026 22:36:24 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/68af27bcc3836bc2.mp3" length="1844640" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La ley indígena y la autonomía burocratizada</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/la-ley-indigena-y-la-autonomia-burocratizada/</description>
-      <link>https://desinformemonos.org/la-ley-indigena-y-la-autonomia-burocratizada/</link>
-      <guid isPermaLink="false">28dfa1ce3b98e2b9</guid>
-      <pubDate>Thu, 27 Aug 2026 22:34:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/28dfa1ce3b98e2b9.mp3" length="2296512" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
