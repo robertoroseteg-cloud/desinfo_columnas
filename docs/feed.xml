@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Una luz que no se apaga</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/una-luz-que-no-se-apaga/</description>
+      <link>https://desinformemonos.org/una-luz-que-no-se-apaga/</link>
+      <guid isPermaLink="false">58d23eacd11bf720</guid>
+      <pubDate>Thu, 24 Sep 2026 17:32:09 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/58d23eacd11bf720.mp3" length="1882512" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿Alcaldes procesados y estructuras impunes en Puebla?</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/alcaldes-procesados-y-estructuras-impunes-en-puebla/</description>
+      <link>https://desinformemonos.org/alcaldes-procesados-y-estructuras-impunes-en-puebla/</link>
+      <guid isPermaLink="false">027bc0774bc1eba6</guid>
+      <pubDate>Thu, 24 Sep 2026 17:31:33 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/027bc0774bc1eba6.mp3" length="1967040" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Sobre el trabajo comunitario en año electoral</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/sobre-el-trabajo-comunitario-en-ano-electoral/</description>
       <link>https://desinformemonos.org/sobre-el-trabajo-comunitario-en-ano-electoral/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">950b7d3857a8d506</guid>
       <pubDate>Tue, 01 Sep 2026 16:53:30 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/950b7d3857a8d506.mp3" length="1688112" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Otros horizontes de sentido?: errores y cambios</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/otros-horizontes-de-sentido-errores-y-cambios/</description>
-      <link>https://desinformemonos.org/otros-horizontes-de-sentido-errores-y-cambios/</link>
-      <guid isPermaLink="false">0bca375216bdef06</guid>
-      <pubDate>Sat, 29 Aug 2026 16:51:58 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/0bca375216bdef06.mp3" length="3685968" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mujeres migrantes y la falsa promesa de protección en México</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/mujeres-migrantes-y-la-falsa-promesa-de-proteccion-en-mexico/</description>
-      <link>https://desinformemonos.org/mujeres-migrantes-y-la-falsa-promesa-de-proteccion-en-mexico/</link>
-      <guid isPermaLink="false">68af27bcc3836bc2</guid>
-      <pubDate>Fri, 28 Aug 2026 22:36:24 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/68af27bcc3836bc2.mp3" length="1844640" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
