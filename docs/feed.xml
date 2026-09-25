@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La geografía del despojo: matar a quienes defienden el territorio</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/la-geografia-del-despojo-matar-a-quienes-defienden-el-territorio/</description>
+      <link>https://desinformemonos.org/la-geografia-del-despojo-matar-a-quienes-defienden-el-territorio/</link>
+      <guid isPermaLink="false">b29bd09cf8bb10d2</guid>
+      <pubDate>Fri, 25 Sep 2026 17:31:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/b29bd09cf8bb10d2.mp3" length="3894480" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Mujeres Transnacionales: una década de nombrar, escuchar y acompañar</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/mujeres-transnacionales-una-decada-de-nombrar-escuchar-y-acompanar/</description>
+      <link>https://desinformemonos.org/mujeres-transnacionales-una-decada-de-nombrar-escuchar-y-acompanar/</link>
+      <guid isPermaLink="false">4df76f2c18708327</guid>
+      <pubDate>Fri, 25 Sep 2026 17:31:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/4df76f2c18708327.mp3" length="1891728" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Una luz que no se apaga</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/una-luz-que-no-se-apaga/</description>
       <link>https://desinformemonos.org/una-luz-que-no-se-apaga/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">5e8b1570f1ab22dd</guid>
       <pubDate>Thu, 03 Sep 2026 16:40:36 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/5e8b1570f1ab22dd.mp3" length="3597408" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Desde la tormenta</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/desde-la-tormenta/</description>
-      <link>https://desinformemonos.org/desde-la-tormenta/</link>
-      <guid isPermaLink="false">e33e5cb6dcad301b</guid>
-      <pubDate>Wed, 02 Sep 2026 16:51:21 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/e33e5cb6dcad301b.mp3" length="4861008" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Murió un constructor de caminos. ¡Viva el camino!</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/murio-un-constructor-de-caminos-viva-el-camino/</description>
-      <link>https://desinformemonos.org/murio-un-constructor-de-caminos-viva-el-camino/</link>
-      <guid isPermaLink="false">950b7d3857a8d506</guid>
-      <pubDate>Tue, 01 Sep 2026 16:53:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/950b7d3857a8d506.mp3" length="1688112" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
