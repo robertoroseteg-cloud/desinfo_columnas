@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Las primaveras más tristes de la historia mapuche</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-primaveras-mas-tristes-de-la-historia-mapuche/</description>
+      <link>https://desinformemonos.org/las-primaveras-mas-tristes-de-la-historia-mapuche/</link>
+      <guid isPermaLink="false">695379fdbd65d521</guid>
+      <pubDate>Sat, 26 Sep 2026 16:45:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/695379fdbd65d521.mp3" length="3609360" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Steve Loza y la música</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/steve-loza-y-la-musica/</description>
+      <link>https://desinformemonos.org/steve-loza-y-la-musica/</link>
+      <guid isPermaLink="false">2c9110e027448a91</guid>
+      <pubDate>Sat, 26 Sep 2026 16:44:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/2c9110e027448a91.mp3" length="3755952" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La geografía del despojo: matar a quienes defienden el territorio</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/la-geografia-del-despojo-matar-a-quienes-defienden-el-territorio/</description>
       <link>https://desinformemonos.org/la-geografia-del-despojo-matar-a-quienes-defienden-el-territorio/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">42adefdb1816197b</guid>
       <pubDate>Sat, 05 Sep 2026 15:30:45 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/42adefdb1816197b.mp3" length="3828672" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Kasa Invisível: una okupa en el corazón de Belo Horizonte resiste el intento de desalojo, pero la amenaza continúa</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/kasa-invisivel-una-okupa-en-el-corazon-de-belo-horizonte-resiste-el-intento-de-desalojo-pero-la-amenaza-continua/</description>
-      <link>https://desinformemonos.org/kasa-invisivel-una-okupa-en-el-corazon-de-belo-horizonte-resiste-el-intento-de-desalojo-pero-la-amenaza-continua/</link>
-      <guid isPermaLink="false">3efc7064fffc3bcf</guid>
-      <pubDate>Fri, 04 Sep 2026 16:36:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/3efc7064fffc3bcf.mp3" length="6037488" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La otra cultura, herramienta de lucha social</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/la-otra-cultura-herramienta-de-lucha-social/</description>
-      <link>https://desinformemonos.org/la-otra-cultura-herramienta-de-lucha-social/</link>
-      <guid isPermaLink="false">5e8b1570f1ab22dd</guid>
-      <pubDate>Thu, 03 Sep 2026 16:40:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/5e8b1570f1ab22dd.mp3" length="3597408" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
