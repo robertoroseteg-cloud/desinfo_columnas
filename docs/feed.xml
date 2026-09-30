@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La tierra que se promete y se niega</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/la-tierra-que-se-promete-y-se-niega/</description>
+      <link>https://desinformemonos.org/la-tierra-que-se-promete-y-se-niega/</link>
+      <guid isPermaLink="false">a2a5c87d9e424bb0</guid>
+      <pubDate>Wed, 30 Sep 2026 18:07:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/a2a5c87d9e424bb0.mp3" length="2407968" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Las primaveras más tristes de la historia mapuche</title>
       <description>Columnas – Desinformémonos — https://desinformemonos.org/las-primaveras-mas-tristes-de-la-historia-mapuche/</description>
       <link>https://desinformemonos.org/las-primaveras-mas-tristes-de-la-historia-mapuche/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">3e8f19113634789b</guid>
       <pubDate>Mon, 07 Sep 2026 17:54:31 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/3e8f19113634789b.mp3" length="2258496" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuando antifascismo y terrorismo se vuelven sinónimos</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-antifascismo-y-terrorismo-se-vuelven-sinonimos/</description>
-      <link>https://desinformemonos.org/cuando-antifascismo-y-terrorismo-se-vuelven-sinonimos/</link>
-      <guid isPermaLink="false">42adefdb1816197b</guid>
-      <pubDate>Sat, 05 Sep 2026 15:30:45 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/42adefdb1816197b.mp3" length="3828672" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
